@@ -34,8 +34,8 @@
     <div class="form">
   <h2>Admin Panel</h2>
   <form class="login-form" action="index.php" method="post">
-    <input type="text" placeholder="Username" name="username" required/>
-    <input type="password" placeholder="Password" name="password" required/>
+    <input type="text" placeholder="Username - admin" name="username" required/>
+    <input type="password" placeholder="Password - admin@123" name="password" required/>
     <input type="submit" name="submit" value="Login" />
   </form>
 </div>
